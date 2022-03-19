@@ -1,6 +1,6 @@
 {
   "name": "@channel360/common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -13,7 +13,7 @@
     "pub": "git add . && git commit -m\"Updates\" && npm version patch && npm run build && npm publish"
   },
   "keywords": [],
-  "author": "", 
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "del-cli": "^4.0.1",
